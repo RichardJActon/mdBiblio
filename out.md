@@ -40,8 +40,9 @@ print(i)
 
 # References
 [small]: #references
-Freely, I.P. (1997). *A small paper.* The journal of small papers, V(-1)
+ __small__ - Freely, I.P. (1997). *A small paper.* The journal of small papers, V(-1)
 
-[big]: ./#references Jass, Hugh (7991). *A big paper.* The journal of big papers, V(MCMXCVII)
+[big]: #references
+ __big__ - Jass, Hugh (7991). *A big paper.* The journal of big papers, V(MCMXCVII)
 
 
