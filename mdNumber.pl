@@ -89,14 +89,14 @@ for (my $i = 0; $i < scalar @lines; $i++)
 		$contents{$line} = $lines[$i];
 		$lines[$i] = $line; 
 	}
-	elsif ($lines[$i] =~ /^######\s/ ) 
-	{
-		my $line = $lines[$i];
-		$h6++;
-		$line =~ s/^######\s/###### ${h1}\.${h2}\.${h3}\.${h4}\.${h5}\.${h6} /;
-		$contents{$line} = $lines[$i];
-		$lines[$i] = $line; 
-	}
+	# elsif ($lines[$i] =~ /^######\s/ ) 
+	# {
+	# 	my $line = $lines[$i];
+	# 	$h6++;
+	# 	$line =~ s/^######\s/###### ${h1}\.${h2}\.${h3}\.${h4}\.${h5}\.${h6} /;
+	# 	$contents{$line} = $lines[$i];
+	# 	$lines[$i] = $line; 
+	# }
 }
 
 my %contents2;

@@ -17,8 +17,6 @@
 
 2.1.3.1.1.......................... [subsubsubsubsub](#21311-subsubsubsubsub)
 
-2.1.3.1.1.1... [subsubsubsubsubsublooooooooooooooooooong](#213111-subsubsubsubsubsublooooooooooooooooooong)
-
 3......................................... [RefTitle](#3-reftitle)
 
 4......................................... [Appendix](#4-appendix)
@@ -48,7 +46,7 @@ print(i)
 
 ##### 2.1.3.1.1 subsubsubsubsub
 
-###### 2.1.3.1.1.1 subsubsubsubsubsublooooooooooooooooooong
+###### subsubsubsubsubsublooooooooooooooooooong
 
 Ease of urination studied by [1][small] Freely et al 1997.
 
