@@ -168,7 +168,7 @@ if ($toc == 1 || $title ne "")
 			print STDOUT "."
 		}
 		#printf STDOUT "%-50s", $heading;
-		print "[$contents2{$key}][#$heading]\n";
+		print " [$contents2{$key}][#$heading]\n";
 		print STDOUT "\n"; 
 	}
 }
