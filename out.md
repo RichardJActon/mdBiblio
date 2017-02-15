@@ -41,10 +41,10 @@ print(i)
 # References
 ###### 1
  [small]: #1
- __1__ - Freely, I.P. (1997). *A small paper.* The journal of small papers, V(-1)
+Freely, I.P. (1997). *A small paper.* The journal of small papers, V(-1)
 
 ###### 2
  [big]: #2
- __2__ - Jass, Hugh (7991). *A big paper.* The journal of big papers, V(MCMXCVII)
+Jass, Hugh (7991). *A big paper.* The journal of big papers, V(MCMXCVII)
 
 
