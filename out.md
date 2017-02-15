@@ -39,8 +39,8 @@ print(i)
 ```
 
 # References
-[small]: Freely, I.P. (1997). *A small paper.* The journal of small papers, V(-1)
+[small]: ./#references Freely, I.P. (1997). *A small paper.* The journal of small papers, V(-1)
 
-[big]: Jass, Hugh (7991). *A big paper.* The journal of big papers, V(MCMXCVII)
+[big]: ./#references Jass, Hugh (7991). *A big paper.* The journal of big papers, V(MCMXCVII)
 
 
