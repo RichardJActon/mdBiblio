@@ -24,7 +24,8 @@ print(i)
 
 ###### subsubsubsubsubsublooooooooooooooooooong
 
-[1][small]
+Ease of urination studied by [1][small] Freely et al 1997.
+
 [2][big]
 
 # RefTitle
