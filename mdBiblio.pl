@@ -108,7 +108,7 @@ for (my $i = 0; $i < scalar @refTags; $i++)
 			if ($bibtexKeys{$k}{"type"} eq "article") 
 			{
 				my $citation = mdBiblio::CITATION_STRING(\%bibtexKeys,$k);
-				print STDOUT "###### $k [$k]: #$k\n __".$refLabels[$i]."__ - $citation";
+				print STDOUT "###### $refLabels[$i]\n [$k]: #$refLabels[$i]\n __".$refLabels[$i]."__ - $citation";
 			}
 		}
 	}
