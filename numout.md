@@ -1,27 +1,27 @@
 # Contents
-1.................................... [mdBiblio test](#mdbibliotest)
+1.................................... [mdBiblio test](#1-mdbiblio-test)
 
-1.1........................................ [counts?](#counts)
+1.1........................................ [counts?](#11-counts)
 
-2......................................... [Contents](#contents)
+2......................................... [Contents](#2-contents)
 
-2.1......................................... [subsub](#subsub)
+2.1......................................... [subsub](#21-subsub)
 
-2.1.1.................................... [subsubsub](#subsubsub)
+2.1.1.................................... [subsubsub](#211-subsubsub)
 
-2.1.2................................... [subsubsub2](#subsubsub)
+2.1.2................................... [subsubsub2](#212-subsubsub)
 
-2.1.3................................... [subsubsub3](#subsubsub3)
+2.1.3................................... [subsubsub3](#213-subsubsub3)
 
-2.1.3.1............................... [subsubsubsub](#subsubsubsub)
+2.1.3.1............................... [subsubsubsub](#2131-subsubsubsub)
 
-2.1.3.1.1.......................... [subsubsubsubsub](#subsubsubsubsub)
+2.1.3.1.1.......................... [subsubsubsubsub](#21311-subsubsubsubsub)
 
-2.1.3.1.1.1... [subsubsubsubsubsublooooooooooooooooooong](#subsubsubsubsubsublooooooooooooooooooong)
+2.1.3.1.1.1... [subsubsubsubsubsublooooooooooooooooooong](#213111-subsubsubsubsubsublooooooooooooooooooong)
 
-3......................................... [RefTitle](#reftitle)
+3......................................... [RefTitle](#3-reftitle)
 
-4......................................... [Appendix](#appendix)
+4......................................... [Appendix](#4-appendix)
 
 
 # 1 mdBiblio test

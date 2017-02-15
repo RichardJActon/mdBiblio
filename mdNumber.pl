@@ -156,7 +156,10 @@ if ($toc == 1 || $title ne "")
 	{
 		my $heading = $contents2{$key};
 		$heading =~ s/(\w+)/lc($1)/ge;
-		$heading =~ s/\s+|[\u2000-\u206F\u2E00-\u2E7F\\'!"#$%&()*+,\-.\/:;<=>?@\[\]^_`{|}~]+//g; # strip punctuation
+		$heading =~ s/\s+/-/g; # strip punctuation
+		$heading =~ s/[\u2000-\u206F\u2E00-\u2E7F\\'!"#$%&()*+,.\/:;<=>?@\[\]^_`{|}~]+//g; # strip punctuation
+		my $num = $key;
+		$num =~ s/\.//g;
 		push @contentsLines, "- $key - $heading\n";
 		my $keyLen = length($key);
 		my $titleLen = length($contents2{$key});
@@ -168,7 +171,7 @@ if ($toc == 1 || $title ne "")
 			print STDOUT "."
 		}
 		#printf STDOUT "%-50s", $heading;
-		print " [$contents2{$key}](#$heading)\n";
+		print " [$contents2{$key}](#$num-$heading)\n";
 		print STDOUT "\n"; 
 	}
 }
